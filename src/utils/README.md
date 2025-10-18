@@ -49,14 +49,15 @@ The system currently maps these buildings:
 2. **MOB B** (Main Office Building B / Ambulatory Care Center / ACC)
 3. **MOB C** (Main Office Building C / Professional Office Building / POB)
 4. **MOB D** (Main Office Building D / Brookwood Medical Plaza / BMP)
-5. **MOB D Parking Deck**
-6. **WMC** (Women's Medical Center)
+5.     **MOB D Parking Deck** (BMP Parking Deck)
+6. **WMC** (Women's Medical Center; Women's Hospital )
 7. **Main Hospital** (includes North Tower and Psych/Mental Health Center)
+8.   **Main Hospital** (Main section of the Main Hospital)
    - **North Tower** (sub-location)
    - **Psych** (Mental Health Center - sub-location)
-8. **Visitor Parking Deck**
-9. **Employee Parking Deck**
-10. **FED** (Freestanding Emergency Department - Highway 280 location)
+9. **Visitor Parking Deck**
+10. **Employee Parking Deck**
+11. **FED** (Freestanding Emergency Department - Highway 280 location)
 
 ## Adding New Buildings or Aliases
 
